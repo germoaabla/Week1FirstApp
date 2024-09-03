@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\germo\\Documents\\TKTK\\c#\\source\\repos\\Week1FirstApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FC12E0-1150-4AED-8DE1-FA11198321AD}|Week1FirstApp\\Week1FirstApp.csproj|c:\\users\\germo\\documents\\tktk\\c#\\source\\repos\\week1firstapp\\week1firstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FC12E0-1150-4AED-8DE1-FA11198321AD}|Week1FirstApp\\Week1FirstApp.csproj|solutionrelative:week1firstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\germo\\Documents\\TKTK\\c#\\source\\repos\\Week1FirstApp\\Week1FirstApp\\Program.cs",
+              "RelativeDocumentMoniker": "Week1FirstApp\\Program.cs",
+              "ToolTip": "C:\\Users\\germo\\Documents\\TKTK\\c#\\source\\repos\\Week1FirstApp\\Week1FirstApp\\Program.cs",
+              "RelativeToolTip": "Week1FirstApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:22:24.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

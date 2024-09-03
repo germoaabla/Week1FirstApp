@@ -12,3 +12,4 @@ C:\Users\germo\Documents\TKTK\c#\source\repos\Week1FirstApp\Week1FirstApp\obj\De
 C:\Users\germo\Documents\TKTK\c#\source\repos\Week1FirstApp\Week1FirstApp\obj\Debug\net8.0\Week1FirstApp.pdb
 C:\Users\germo\Documents\TKTK\c#\source\repos\Week1FirstApp\Week1FirstApp\obj\Debug\net8.0\Week1FirstApp.genruntimeconfig.cache
 C:\Users\germo\Documents\TKTK\c#\source\repos\Week1FirstApp\Week1FirstApp\obj\Debug\net8.0\ref\Week1FirstApp.dll
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week1FirstApp\Week1FirstApp\obj\Debug\net8.0\Week1FirstApp.sourcelink.json
